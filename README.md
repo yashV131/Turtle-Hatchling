@@ -96,7 +96,3 @@ Turtle-Hatchling is an ESP32-based robotics project designed for a robot that co
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
